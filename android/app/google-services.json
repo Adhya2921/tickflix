@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227374973189",
+    "project_id": "tickflix-2f582",
+    "storage_bucket": "tickflix-2f582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227374973189:android:91aab59f1e359b502bf76c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAbCeKqq1D5R4R8Izlwqq7R9s30Ytkpdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
